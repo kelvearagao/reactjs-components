@@ -24,3 +24,4 @@ yarn dev
 
 * https://stackoverflow.com/questions/40795836/how-do-you-use-the-files-and-directories-properties-in-package-json
 * https://medium.com/hy-vee-engineering/creating-a-monorepo-with-lerna-yarn-workspaces-cf163908965d
+* https://medium.com/@luisvieira_gmr/building-large-scale-react-applications-in-a-monorepo-91cd4637c131
